@@ -1,0 +1,7 @@
+// Currency
+
+@mixin currency($sym) {
+  &::after {
+    content: "#{$sym}";
+  }
+}

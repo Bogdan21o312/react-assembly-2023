@@ -1,0 +1,22 @@
+body[data-theme='light'] {
+  // Colors ====================================================================================================
+
+  --color-main: #181818;
+
+  --color-red: red;
+  --color-green: green;
+  --color-white: #f9f9f9;
+
+}
+
+body[data-theme='dark'] {
+  // Colors ====================================================================================================
+
+  --color-main: #fff;
+
+  --color-red: red;
+  --color-green: green;
+  --color-white: #f9f9f9;
+
+}
+
